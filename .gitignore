@@ -3,3 +3,9 @@
 .project
 /.settings/
 /bin/
+/.gradle/
+/gradle/
+/build/
+gradlew
+gradlew.bat
+.gitignore~
