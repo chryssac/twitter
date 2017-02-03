@@ -1,4 +1,4 @@
-package twitter4j_example;
+package twitter4j_example; 
 
 import java.awt.image.BufferedImage;
 import java.io.File;
